@@ -25,4 +25,7 @@ Demo project to show UI glitches and find ways to improve it
 2. Нажать на один из плейсмарков.
 3. Убедиться, что происходит изменение увеличения карты, а потом сдвиг по оси ординат.
 
-![](previews/video.mp4)
+
+
+https://github.com/user-attachments/assets/63510806-de77-4e7c-8257-c759b0fbcbda
+
